@@ -3,9 +3,32 @@
 } */
 
 body {
-    background-color: brown;
+    background-color: rgb(58, 165, 42);
 }
 
 #Tools {
     color: aqua;
+}
+
+#Overview {
+    background-color: rgb(10, 1, 19);
+}
+
+section {
+    background-color: aquamarine;
+}
+#Tools {
+    background-color: blue;
+}
+
+header {
+    color: brown;
+}
+
+footer {
+    color: blue;
+}
+
+footer {
+    background-color: blanchedalmond;
 }
