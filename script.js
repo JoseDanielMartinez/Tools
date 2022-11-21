@@ -35,7 +35,8 @@ function sayHi(){
 let usersname = prompt("Please enter your name");
 if (usersname == ""){
     alert("You may have forgotten to type your name...");
-}   usersname = prompt("Please include a name.  It helps enhance your experience.");
+}
+usersname = prompt("Please include a name.  It helps enhance your experience.");
 let usersresponse = prompt("Before heading to my website, what tools would you like to learn more about?"); 
 let usertool = prompt ("If you are a craftsperson, what is your favorite tool to use?");
 if (usertool == ""){
